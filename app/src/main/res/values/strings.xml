@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">p3_7s21</string>
+    <string name="titlop1">Programando Android</string>
+    <string name="descripimgp1">Imagen</string>
+
+    <string name="titulop2">Menu de opciones</string>
+    <string name="p2suma2num">Suma 2 numeros</string>
+    <string name="p2resta2num">Resta 2 numeros</string>
+
+    <string name="titulop3">Suma de 2 numeros</string>
+    <string name="p3txtnum1">Ingresa el primer numero</string>
+    <string name="p3txtnum1f">número 1</string>
+    <string name="p3txtnum2">Ingresa el segundo numero</string>
+    <string name="p3txtnum2f">número 2</string>
+    <string name="p3btntext">Calcular</string>
+    <string name="p3lbltext">Resultado de la suma</string>
+
+    <string name="titulo2p3">Resta de 2 numeros</string>
+    <string name="p3btntext2">Calcular</string>
+    <string name="p3lbltext2">Resultado de la resta</string>
+</resources>
